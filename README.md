@@ -52,4 +52,4 @@ Contributions to this project are welcome. If you have suggestions for additiona
 
 ## Contact
 
-If you have any questions, suggestions, or feedback regarding this project, please feel free to contact the project maintainer at [felix@dyrhede.se].
+If you have any questions, suggestions, or feedback regarding this project, please feel free to contact the project maintainer at [sweg1223@gmail.com].
